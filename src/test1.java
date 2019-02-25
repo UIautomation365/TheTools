@@ -18,6 +18,7 @@ public class test1 {
 				System.out.println("number"+a[i]+" this is count"+c);
 			}
 			c=0;
+			System.out.println("number"+a[i]+"count"+c);
 		}
 	}
 
