@@ -11,8 +11,11 @@ public class test1 {
 			}
 			if(c>=1) {
 
+
 				System.out.println("number"+a[i]+"count"+c);
 
+
+				System.out.println("number"+a[i]+" this is count"+c);
 			}
 			c=0;
 		}
