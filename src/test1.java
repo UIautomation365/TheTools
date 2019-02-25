@@ -8,12 +8,17 @@ public class test1 {
 				if(a[i]==a[j]) {
 					c=c+1;
 				}
-				
 			}
 			if(c>=1) {
+
 				System.out.println("number"+a[i]+" this is count"+c);
 				System.out.println("number"+a[i]+" this is count "+c);
 				System.out.println("number"+a[i]+" this is count "+c);
+
+				System.out.println("number"+a[i]+" my count"+c);
+				System.out.println("number"+a[i]+" my count"+c);
+				System.out.println("number"+a[i]+" my count"+c);
+
 			}
 			c=0;
 		}
